@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box; 
+}
+
+body {
+  background-color: #b1d16a;
+}
+.app {
+  height: 100vh;
+  color: #444444;
+  font: bold;
+}
+
+.home-content {
+  margin: 0;
+}
+
+.landing-link {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.landing-page {
+  text-align: right;
+  margin: 20px;
+  height: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 40px;
+  padding: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 98vw;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.home-content {
+  width: 80vw;
+  height: 75vh;
+}
