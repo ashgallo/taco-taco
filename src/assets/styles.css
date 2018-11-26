@@ -33,14 +33,6 @@ h1 {
   padding: 20px;
 }
 
-footer {
-  position: fixed;
-  bottom: 0;
-  width: 98vw;
-  text-align: right;
-  margin-bottom: 10px;
-}
-
 .home-content {
   width: 80vw;
   height: 75vh;

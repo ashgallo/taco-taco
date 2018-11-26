@@ -1,6 +1,5 @@
 import React from 'react';
 import HomeContent from './HomeContent';
-import Footer from './Footer';
 
 const Home = () => (
   <div className='home'>
@@ -11,7 +10,6 @@ const Home = () => (
     <nav>
       <HomeContent />
     </nav>
-    <Footer />
   </div>
 )
 
